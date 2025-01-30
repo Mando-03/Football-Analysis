@@ -1,0 +1,14 @@
+*.mp4
+.ipynb_checkpoints
+runs
+football-players-detection-2
+football-field-detection-1
+yolov8n-pose.pt
+yolov8n.pt
+yolov8s.pt
+__pycache__
+models/weights
+.conda
+config.py
+old-object_tracker.py
+*_tracks.json
